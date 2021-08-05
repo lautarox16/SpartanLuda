@@ -1,0 +1,12 @@
+body {
+  background-color: rgba(90, 87, 87, 0.288);
+}
+h1 {
+  position: relative;
+  left: 80px;
+  color: black;
+}
+#logo {
+  display: block;
+  width: 800px;
+}
